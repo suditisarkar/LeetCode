@@ -59,11 +59,13 @@
 | [0024-swap-nodes-in-pairs](https://github.com/suditisarkar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/suditisarkar/LeetCode/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/suditisarkar/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/suditisarkar/LeetCode/tree/master/0206-reverse-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/suditisarkar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/suditisarkar/LeetCode/tree/master/0206-reverse-linked-list) |
 # Binary Search
 |  |
 | ------- |
