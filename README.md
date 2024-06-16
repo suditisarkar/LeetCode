@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -87,3 +88,12 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+# Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
