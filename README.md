@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/suditisarkar/LeetCode/tree/master/0217-contains-duplicate) |
 # Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/suditisarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/suditisarkar/LeetCode/tree/master/0217-contains-duplicate) |
 # Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0088-merge-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suditisarkar/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/suditisarkar/LeetCode/tree/master/0217-contains-duplicate) |
 # Matrix
 |  |
 | ------- |
