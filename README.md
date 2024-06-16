@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/suditisarkar/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
 # Hash Table
 |  |
 | ------- |
@@ -48,3 +49,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/suditisarkar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
