@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/suditisarkar/LeetCode/tree/master/0056-merge-intervals) |
 # Hash Table
 |  |
 | ------- |
@@ -53,3 +54,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
+# Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/suditisarkar/LeetCode/tree/master/0056-merge-intervals) |
