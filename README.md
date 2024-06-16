@@ -27,6 +27,7 @@
 | [0009-palindrome-number](https://github.com/suditisarkar/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/suditisarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
 # Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suditisarkar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
 # Linked List
 |  |
 | ------- |
@@ -73,3 +75,15 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+# Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
+# Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
