@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/suditisarkar/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
 # Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0005-longest-palindromic-substring](https://github.com/suditisarkar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suditisarkar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
 # String
 |  |
 | ------- |
