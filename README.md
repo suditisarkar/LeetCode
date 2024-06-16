@@ -9,12 +9,14 @@
 | [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/suditisarkar/LeetCode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suditisarkar/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/suditisarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 # Math
 |  |
 | ------- |
@@ -60,3 +62,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/suditisarkar/LeetCode/tree/master/0056-merge-intervals) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
