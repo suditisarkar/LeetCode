@@ -13,6 +13,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
 # Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0005-longest-palindromic-substring](https://github.com/suditisarkar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/suditisarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0056-merge-intervals](https://github.com/suditisarkar/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suditisarkar/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
 # Matrix
 |  |
 | ------- |
@@ -103,3 +106,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+# Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
