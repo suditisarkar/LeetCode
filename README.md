@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/suditisarkar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/suditisarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0061-rotate-list](https://github.com/suditisarkar/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/suditisarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # String
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0287-find-the-duplicate-number](https://github.com/suditisarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Binary Tree
 |  |
 | ------- |
@@ -122,3 +125,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/suditisarkar/LeetCode/tree/master/0279-perfect-squares) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/suditisarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
