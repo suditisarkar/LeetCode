@@ -16,6 +16,7 @@
 | [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/suditisarkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/suditisarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 # Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/suditisarkar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 # Math
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/suditisarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 # String
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 | [0147-insertion-sort-list](https://github.com/suditisarkar/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/suditisarkar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 # Matrix
 |  |
 | ------- |
@@ -101,6 +105,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0287-find-the-duplicate-number](https://github.com/suditisarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 # Binary Tree
 |  |
 | ------- |
