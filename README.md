@@ -31,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/suditisarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/suditisarkar/LeetCode/tree/master/0279-perfect-squares) |
 # Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suditisarkar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0096-unique-binary-search-trees](https://github.com/suditisarkar/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/suditisarkar/LeetCode/tree/master/0279-perfect-squares) |
 # Linked List
 |  |
 | ------- |
@@ -116,3 +118,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/suditisarkar/LeetCode/tree/master/0179-largest-number) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/suditisarkar/LeetCode/tree/master/0279-perfect-squares) |
