@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/suditisarkar/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/suditisarkar/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
