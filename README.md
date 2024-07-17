@@ -179,6 +179,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/suditisarkar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suditisarkar/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -187,5 +188,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/suditisarkar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suditisarkar/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
