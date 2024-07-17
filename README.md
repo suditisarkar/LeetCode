@@ -172,6 +172,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/suditisarkar/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/suditisarkar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suditisarkar/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/suditisarkar/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
