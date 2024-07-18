@@ -163,10 +163,12 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -177,6 +179,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -197,4 +200,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/suditisarkar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
