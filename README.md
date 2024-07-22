@@ -195,6 +195,7 @@
 | [0135-candy](https://github.com/suditisarkar/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suditisarkar/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -208,6 +209,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/suditisarkar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/suditisarkar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -272,4 +274,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
