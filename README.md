@@ -169,6 +169,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suditisarkar/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -182,6 +183,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suditisarkar/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/suditisarkar/LeetCode/tree/master/0045-jump-game-ii) |
@@ -212,6 +214,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suditisarkar/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
