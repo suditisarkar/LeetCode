@@ -146,6 +146,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suditisarkar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suditisarkar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/suditisarkar/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/suditisarkar/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/suditisarkar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -208,6 +209,7 @@
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/suditisarkar/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search
