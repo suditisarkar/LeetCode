@@ -189,6 +189,7 @@
 | [0027-remove-element](https://github.com/suditisarkar/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/suditisarkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/suditisarkar/LeetCode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suditisarkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suditisarkar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -205,6 +206,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/suditisarkar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/suditisarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
