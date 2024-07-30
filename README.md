@@ -199,6 +199,7 @@
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suditisarkar/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -293,4 +294,9 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
