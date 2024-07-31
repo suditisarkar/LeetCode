@@ -185,6 +185,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/suditisarkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/suditisarkar/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/suditisarkar/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/suditisarkar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -224,6 +225,7 @@
 | [0049-group-anagrams](https://github.com/suditisarkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/suditisarkar/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/suditisarkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/suditisarkar/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/suditisarkar/LeetCode/tree/master/0290-word-pattern) |
@@ -254,6 +256,7 @@
 | [0012-integer-to-roman](https://github.com/suditisarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/suditisarkar/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/suditisarkar/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/suditisarkar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suditisarkar/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/suditisarkar/LeetCode/tree/master/0367-valid-perfect-square) |
