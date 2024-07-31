@@ -151,6 +151,7 @@
 | [0316-remove-duplicate-letters](https://github.com/suditisarkar/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/suditisarkar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/suditisarkar/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/suditisarkar/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -223,6 +224,7 @@
 | [0290-word-pattern](https://github.com/suditisarkar/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/suditisarkar/LeetCode/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/suditisarkar/LeetCode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
