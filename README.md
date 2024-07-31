@@ -206,6 +206,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suditisarkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suditisarkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suditisarkar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/suditisarkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/suditisarkar/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/suditisarkar/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
@@ -224,6 +225,7 @@
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/suditisarkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/suditisarkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suditisarkar/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/suditisarkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -334,4 +336,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suditisarkar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/suditisarkar/LeetCode/tree/master/0061-rotate-list) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/suditisarkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
