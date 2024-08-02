@@ -351,22 +351,26 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/suditisarkar/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/suditisarkar/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/suditisarkar/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/suditisarkar/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
