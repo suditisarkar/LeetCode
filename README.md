@@ -245,6 +245,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/suditisarkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/suditisarkar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/suditisarkar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -273,6 +274,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/suditisarkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/suditisarkar/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -357,6 +359,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/suditisarkar/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suditisarkar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/suditisarkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
@@ -378,6 +381,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/suditisarkar/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suditisarkar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/suditisarkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
