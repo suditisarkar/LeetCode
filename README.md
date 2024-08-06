@@ -222,6 +222,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suditisarkar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0945-snakes-and-ladders](https://github.com/suditisarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
+| [0945-snakes-and-ladders](https://github.com/suditisarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Simulation
 |  |
 | ------- |
@@ -425,6 +427,7 @@
 | [0226-invert-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/suditisarkar/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suditisarkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/suditisarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Binary Search Tree
 |  |
 | ------- |
