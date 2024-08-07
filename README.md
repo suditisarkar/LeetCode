@@ -215,6 +215,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/suditisarkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/suditisarkar/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/suditisarkar/LeetCode/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/suditisarkar/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suditisarkar/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/suditisarkar/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/suditisarkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
