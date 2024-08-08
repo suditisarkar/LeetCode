@@ -191,6 +191,7 @@
 | [0202-happy-number](https://github.com/suditisarkar/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/suditisarkar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/suditisarkar/LeetCode/tree/master/0392-is-subsequence) |
 ## Array
@@ -225,6 +226,7 @@
 | [0219-contains-duplicate-ii](https://github.com/suditisarkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/suditisarkar/LeetCode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suditisarkar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -247,6 +249,7 @@
 | [0219-contains-duplicate-ii](https://github.com/suditisarkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/suditisarkar/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/suditisarkar/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/suditisarkar/LeetCode/tree/master/0383-ransom-note) |
@@ -260,6 +263,7 @@
 | [0162-find-peak-element](https://github.com/suditisarkar/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/suditisarkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/suditisarkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/suditisarkar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/suditisarkar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -271,6 +275,7 @@
 | [0056-merge-intervals](https://github.com/suditisarkar/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suditisarkar/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suditisarkar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
