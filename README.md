@@ -229,6 +229,7 @@
 | [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/suditisarkar/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suditisarkar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suditisarkar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0945-snakes-and-ladders](https://github.com/suditisarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -461,6 +462,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suditisarkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/suditisarkar/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
