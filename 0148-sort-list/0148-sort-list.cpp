@@ -1,56 +1,46 @@
 class Solution {
- public:
-  ListNode* sortList(ListNode* head) {
-    const int length = getLength(head);
-    ListNode dummy(0, head);
-
-    for (int k = 1; k < length; k *= 2) {
-      ListNode* curr = dummy.next;
-      ListNode* tail = &dummy;
-      while (curr) {
-        ListNode* l = curr;
-        ListNode* r = split(l, k);
-        curr = split(r, k);
-        auto [mergedHead, mergedTail] = merge(l, r);
-        tail->next = mergedHead;
-        tail = mergedTail;
-      }
+public:
+  ListNode* findMid(ListNode* head){
+    ListNode* slow = head;
+    ListNode* fast = head->next;
+    while(fast != NULL && fast->next !=NULL){
+        slow = slow->next;
+        fast = fast->next->next;
     }
-
-    return dummy.next;
+    return slow;
   }
+ListNode* merge(ListNode* list1, ListNode* list2) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
 
-  int getLength(ListNode* head) {
-    int length = 0;
-    for (ListNode* curr = head; curr; curr = curr->next)
-      ++length;
-    return length;
-  }
-
-  ListNode* split(ListNode* head, int k) {
-    while (--k && head)
-      head = head->next;
-    ListNode* rest = head ? head->next : nullptr;
-    if (head != nullptr)
-      head->next = nullptr;
-    return rest;
-  }
-
-  pair<ListNode*, ListNode*> merge(ListNode* l1, ListNode* l2) {
-    ListNode dummy(0);
-    ListNode* tail = &dummy;
-
-    while (l1 && l2) {
-      if (l1->val > l2->val)
-        swap(l1, l2);
-      tail->next = l1;
-      l1 = l1->next;
-      tail = tail->next;
+        while (list1 && list2) {
+            if (list1->val < list2->val) {
+                tail->next = list1;
+                list1 = list1->next;
+            } else {
+                tail->next = list2;
+                list2 = list2->next;
+            }
+            tail = tail->next;
+        }
+tail->next = list1 ? list1 : list2;
+        return dummy.next;
     }
-    tail->next = l1 ? l1 : l2;
-    while (tail->next)
-      tail = tail->next;
+    ListNode* sortList(ListNode* head) {
+        if(head==NULL || head->next == NULL){
+            return head;
+        }
 
-    return {dummy.next, tail};
-  }
+        ListNode* mid = findMid(head);
+        ListNode* left = head;
+        ListNode* right = mid->next;
+        mid->next = NULL;
+
+        // recursive calls;
+        left = sortList(left);
+        right = sortList(right);
+
+        ListNode*  merged = merge(left,right);
+     return merged;
+    }
 };
