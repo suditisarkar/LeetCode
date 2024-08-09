@@ -321,6 +321,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suditisarkar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -383,6 +384,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suditisarkar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/suditisarkar/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/suditisarkar/LeetCode/tree/master/0148-sort-list) |
 ## Union Find
@@ -474,6 +476,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suditisarkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/suditisarkar/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
@@ -483,5 +486,6 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/suditisarkar/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
