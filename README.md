@@ -255,6 +255,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suditisarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/suditisarkar/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/suditisarkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/suditisarkar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suditisarkar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suditisarkar/LeetCode/tree/master/0202-happy-number) |
@@ -397,6 +398,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/suditisarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/suditisarkar/LeetCode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/suditisarkar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suditisarkar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/suditisarkar/LeetCode/tree/master/0148-sort-list) |
 ## Union Find
