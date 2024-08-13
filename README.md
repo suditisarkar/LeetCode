@@ -151,6 +151,7 @@
 | [0071-simplify-path](https://github.com/suditisarkar/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/suditisarkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/suditisarkar/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/suditisarkar/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/suditisarkar/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/suditisarkar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/suditisarkar/LeetCode/tree/master/0290-word-pattern) |
@@ -227,6 +228,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/suditisarkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/suditisarkar/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/suditisarkar/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/suditisarkar/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/suditisarkar/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
@@ -258,6 +260,7 @@
 | [0127-word-ladder](https://github.com/suditisarkar/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/suditisarkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/suditisarkar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/suditisarkar/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/suditisarkar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suditisarkar/LeetCode/tree/master/0202-happy-number) |
@@ -357,6 +360,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suditisarkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suditisarkar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suditisarkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/suditisarkar/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/suditisarkar/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/suditisarkar/LeetCode/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/suditisarkar/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -372,6 +376,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suditisarkar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/suditisarkar/LeetCode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -523,4 +528,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suditisarkar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/suditisarkar/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
