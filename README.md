@@ -238,6 +238,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/suditisarkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/suditisarkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/suditisarkar/LeetCode/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/suditisarkar/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/suditisarkar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/suditisarkar/LeetCode/tree/master/0322-coin-change) |
@@ -298,6 +299,7 @@
 | [0169-majority-element](https://github.com/suditisarkar/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suditisarkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/suditisarkar/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/suditisarkar/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/suditisarkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suditisarkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suditisarkar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -535,4 +537,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/suditisarkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/suditisarkar/LeetCode/tree/master/0139-word-break) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/suditisarkar/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
