@@ -149,6 +149,7 @@
 | [0049-group-anagrams](https://github.com/suditisarkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/suditisarkar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/suditisarkar/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/suditisarkar/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/suditisarkar/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/suditisarkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/suditisarkar/LeetCode/tree/master/0127-word-ladder) |
@@ -375,6 +376,7 @@
 | [0055-jump-game](https://github.com/suditisarkar/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/suditisarkar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/suditisarkar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/suditisarkar/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/suditisarkar/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/suditisarkar/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suditisarkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
