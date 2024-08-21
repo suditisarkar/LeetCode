@@ -148,6 +148,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suditisarkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/suditisarkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/suditisarkar/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/suditisarkar/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/suditisarkar/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/suditisarkar/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/suditisarkar/LeetCode/tree/master/0097-interleaving-string) |
@@ -320,6 +321,7 @@
 | [0013-roman-to-integer](https://github.com/suditisarkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/suditisarkar/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suditisarkar/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/suditisarkar/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suditisarkar/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/suditisarkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/suditisarkar/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -333,6 +335,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suditisarkar/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/suditisarkar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/suditisarkar/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -427,6 +430,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suditisarkar/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/suditisarkar/LeetCode/tree/master/0289-game-of-life) |
 ## Linked List
 |  |
