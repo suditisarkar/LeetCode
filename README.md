@@ -217,6 +217,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suditisarkar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suditisarkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/suditisarkar/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/suditisarkar/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/suditisarkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/suditisarkar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suditisarkar/LeetCode/tree/master/0055-jump-game) |
@@ -583,5 +584,6 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suditisarkar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/suditisarkar/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/suditisarkar/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
